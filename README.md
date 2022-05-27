@@ -1,10 +1,10 @@
 ### Olá eu sou o Gabriel :wave:
 
-- :telescope: Hoje estou aprendendo a linguagem Python, C++, C#
-- :seedling: Atualmente estou estudando Análise e Desenvolvimento de Sistemas
+- :telescope: Atualmente estou aprendendo a linguagem Python, C++, C#
+- :seedling: Estou cursando Análise e Desenvolvimento de Sistemas
 - :people_with_bunny_ears_partying: Provavelmente programando com meu irmão
-- :thinking: Ajuda sempre é bem vinda duvidas tambem
-- :speech_balloon: Me pergunte sobre tudo 
+- :thinking: Ajuda sempre é bem vinda
+- :speech_balloon: Me pergunte sobre tudo
 - :mailbox: A procura de um estágio na área
 <div align="center">
   <a href="https://github.com/Gabrielramosdias">

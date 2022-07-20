@@ -1,10 +1,7 @@
-### Olá eu sou o Gabriel :wave:
+### Olá, meu nome é Gabriel Ramos Dias :wave:
 
-- :telescope: Atualmente estou aprendendo a linguagem Python, C++, C#
-- :seedling: Estou cursando Análise e Desenvolvimento de Sistemas
-- :people_with_bunny_ears_partying: Provavelmente programando com meu irmão
-- :thinking: Ajuda sempre é bem vinda
-- :speech_balloon: Me pergunte sobre tudo
+- :telescope: Atualmente estou aprendendo a linguagem Python, C++, C#, HTML
+- :seedling: Cursando Análise e Desenvolvimento de Sistemas
 - :mailbox: A procura de um estágio na área
 <div align="center">
   <a href="https://github.com/Gabrielramosdias">

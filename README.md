@@ -1,6 +1,6 @@
 ### Olá, meu nome é Gabriel Ramos Dias :wave:
 
-- :telescope: Atualmente estou aprendendo a linguagem Python, C++, C#, HTML
+- :telescope: Atualmente estou aprendendo a linguagem HTML5, CSS3, JavaScript, Python, C#
 - :seedling: Cursando Análise e Desenvolvimento de Sistemas
 - :mailbox: A procura de um estágio na área
 <div align="center">
@@ -19,6 +19,5 @@
   <a href = "mailto:gabriel.rdias18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-rd-127092240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
